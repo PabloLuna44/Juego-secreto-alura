@@ -28,8 +28,7 @@ function verificarIntento() {
     asignarTextoElemento("p", "Haz exedido el numero de intentos");
     let reiniciar=document.getElementById('reiniciar').removeAttribute('disabled');
   }
-  console.log(number);
-console.log(listNumbers);
+
 
   return;
 }
